@@ -1,0 +1,14 @@
+{
+  "command_prefix": "!",
+  "allowed_guilds": [1361004412419571964, 1360799194733871207],
+  "colors": {
+    "default_color": "#E67E22",
+    "finished_color": "#2ECC71",
+    "error_color": "#E74C3C"
+  },
+  "channels": {
+    "signup_channel_id": 1360805842777145424,
+    "subs_channel_id": 987654321098765432
+  },
+  "icon_url": ""
+}
